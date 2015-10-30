@@ -24,7 +24,7 @@
                         <input type="submit" name="btn" value="%"/>
                     </td>
                 </tr>
-
+//echo '<pre>';
                 <?php
                 //echo '<pre>';
                 //print_r($_POST);
